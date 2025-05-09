@@ -636,3 +636,4 @@ var stateData = {
 		nickname: 'Equality State'
 	}
 };
+
